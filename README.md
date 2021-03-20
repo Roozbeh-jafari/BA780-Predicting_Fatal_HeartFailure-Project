@@ -1,4 +1,4 @@
-# BA780_7b-Project
+# BA780-Project
 ## Predicting Heart Disease and Heart Failure
 _A repository for our BA780 project on Heart disease/heart failure data._
 
